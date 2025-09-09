@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kr1stik
+- 👋 Hi, I’m Wenard Roy F. Barrera
 - 👀 I’m interested in ... Movies, Music, Anime, Manga, Manhwa, Running, Trail Running, Hiking etc.
 - 🌱 I’m currently learning ... Python and Django.
 - 💞️ I’m looking to collaborate on ...
